@@ -1,0 +1,30 @@
+body{
+    background-color: aliceblue;
+    color:palegoldenrod;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading{
+    font-size: 25px;
+    width:100%;
+    margin-top: 0;
+}
+.heading_2{
+font-size: 24px;
+}
+.footer{
+    background-color: crimson;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+}
+canvas{
+    background-color: cyan;
+    border-width: 5px;
+    border-style: inset;
+    border-radius: 20%;
+    border-color: navy;
+}
+#size{
+    background-color: black;
+}
